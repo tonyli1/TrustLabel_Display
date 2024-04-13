@@ -2,6 +2,7 @@
 
 - **Website Link:** [[link](https://github.com/gennadis/twopasswords)]
 - *as of 2024.01.31. GitHub Commit History for this file: [[link]](https://github.com/gennadis/twopasswords/commits/main/)*
+- Note: All visualizations show normalized metric values and exclude missing/null metric values.
 
 ## Community Activity and Integrity
 
