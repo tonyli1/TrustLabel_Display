@@ -28,6 +28,7 @@ Activity and usage by this project’s consumers and contributors, as compared t
 
   How the project is scaling in size: change in contributors, PRs
 
+[Metric Details]("https://github.com/tonyli1/TrustLabel_Display/blob/bdbf8d8c8e10a65aaa5b4274c9d158e600d6f8c4/markdown/Metrics_detail_template_Component_(Integrity)_twopasswords.md")
 
 
 ## Maintenance and Goodwill
@@ -54,7 +55,7 @@ Activity and involvement by this project’s maintainer(s) for the benefit of th
 
   Maintainer experience: maintainers' other projects
 
-
+[Metric Details]("https://github.com/tonyli1/TrustLabel_Display/blob/bdbf8d8c8e10a65aaa5b4274c9d158e600d6f8c4/markdown/Metrics_detail_template_Component_(Integrity)_twopasswords.md")
   
 
 ## Code Quality
@@ -80,3 +81,5 @@ Security and review of the project’s code, as compared to those of the top 100
 - **Project Maturity:** : 994/1000 <center><img src="./images/gennadis_twopasswords/project_maturity.png" width="350px" height="150px"></center> 
 
   Size and age of repo: creation time, versions
+
+[Metric Details]("https://github.com/tonyli1/TrustLabel_Display/blob/bdbf8d8c8e10a65aaa5b4274c9d158e600d6f8c4/markdown/Metrics_detail_template_Component_(Integrity)_twopasswords.md")
