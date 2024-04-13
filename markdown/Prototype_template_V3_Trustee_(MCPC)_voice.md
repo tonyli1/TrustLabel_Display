@@ -28,7 +28,7 @@ Activity and involvement by this project’s maintainer(s), as compared to those
 
   Maintainer experience: maintainers' other projects
 
-[Metric Details]("https://github.com/tonyli1/TrustLabel_Display/blob/bdbf8d8c8e10a65aaa5b4274c9d158e600d6f8c4/markdown/Metrics_detail_template_Trustee_(MCPC)_voice.md")
+[Metric Details](https://github.com/tonyli1/TrustLabel_Display/blob/bdbf8d8c8e10a65aaa5b4274c9d158e600d6f8c4/markdown/Metrics_detail_template_Trustee_(MCPC)_voice.md)
 
 
 
@@ -52,7 +52,7 @@ Activity and involvement by this project’s contributors, as compared to those 
 
   How the project is scaling in size: change in contributors, PRs
 
-[Metric Details]("https://github.com/tonyli1/TrustLabel_Display/blob/bdbf8d8c8e10a65aaa5b4274c9d158e600d6f8c4/markdown/Metrics_detail_template_Trustee_(MCPC)_voice.md")
+[Metric Details](https://github.com/tonyli1/TrustLabel_Display/blob/bdbf8d8c8e10a65aaa5b4274c9d158e600d6f8c4/markdown/Metrics_detail_template_Trustee_(MCPC)_voice.md)
 
 
 ## Popularity
@@ -79,7 +79,7 @@ Activity and usage by this project’s consumers, as compared to those of the to
 
   For projects producing packages and dependencies, how many downstream projects rely on them
 
-[Metric Details]("https://github.com/tonyli1/TrustLabel_Display/blob/bdbf8d8c8e10a65aaa5b4274c9d158e600d6f8c4/markdown/Metrics_detail_template_Trustee_(MCPC)_voice.md")
+[Metric Details](https://github.com/tonyli1/TrustLabel_Display/blob/bdbf8d8c8e10a65aaa5b4274c9d158e600d6f8c4/markdown/Metrics_detail_template_Trustee_(MCPC)_voice.md)
 
 
 ## Code Quality
@@ -102,4 +102,4 @@ Security and review of the project’s code, as compared to those of the top 100
 
   Scale of manual code reviews: contributors and reviewers per code portion
 
-[Metric Details]("https://github.com/tonyli1/TrustLabel_Display/blob/bdbf8d8c8e10a65aaa5b4274c9d158e600d6f8c4/markdown/Metrics_detail_template_Trustee_(MCPC)_voice.md")
+[Metric Details](https://github.com/tonyli1/TrustLabel_Display/blob/bdbf8d8c8e10a65aaa5b4274c9d158e600d6f8c4/markdown/Metrics_detail_template_Trustee_(MCPC)_voice.md)
